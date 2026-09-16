@@ -1,0 +1,10 @@
+q: ion brightness
+lam: SPDC brightness
+p_r: remote loss
+p_l: local loss
+
+atom:
+q, p_r, p_l
+
+hybrid:
+q, lam, p_r, p_l
